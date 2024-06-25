@@ -1,0 +1,25 @@
+Country ,Driver,Patient Incidence,Percentage of sites with no competitor trials,Roche Recruitment Rate
+United States,Core,"2,70,25,560",0.70,0.14
+China,Core,"6,78,16,729",0.29,0
+Japan,Core,"1,03,71,658",0.67,0.18
+Russian Federation,Core,"70,91,438",0.72,0.55
+France,Core,"74,92,351",0.73,0.19
+Germany,Core,"78,09,597",0.77,0.03
+Italy,Core,"63,23,250",0.76,0.11
+Spain,Core,"3,55,784",0.48,0.14
+Brazil,Core,"1,67,99,517",0.83,0.54
+United Kingdom,Core,"53,50,459",0.83,0.1
+Australia,Core,"23,79,715",0.76,0.13
+Poland,Core,"63,20,148",0.73,0.44
+Canada,Core,"31,84,091",0.74,0.19
+Turkey,Extended,"53,88,643",1.00,0.31
+Ukraine,Extended,"23,00,958",0.85,0.69
+Mexico,Extended,"48,69,066",0.81,0.94
+Argentina,Extended,"30,39,876",0.70,0.52
+Republic of Korea,Core,"35,38,444",0.60,0.25
+Taiwan,Extended,"16,03,842",0.26,0
+Netherlands,Extended,"29,20,364",0.85,0.12
+Belgium,Extended,"11,83,763",0.65,0.29
+South Africa,Extended,"50,41,280",1.00,0.38
+Switzerland,Extended,"9,36,365",0.93,0
+Denmark,Extended,"3,55,784",0.44,0.79

@@ -1,0 +1,25 @@
+Country ,Driver,Patient Population,Competition,TAE/Country ,Country Operations
+United States,Core,3,3,3,2
+China,Core,3,3,3,1
+Japan,Core,2,3,3,2
+Russian Federation,Core,1,2,3,3
+France,Core,3,2,1,2
+Germany,Core,3,2,3,1
+Italy,Core,2,2,1,1
+Spain,Core,2,3,2,2
+Brazil,Core,3,1,1,3
+United Kingdom,Core,2,1,2,1
+Australia,Core,3,2,2,1
+Poland,Core,3,2,2,3
+Canada,Core,1,2,3,2
+Turkey,Extended,2,1,1,2
+Ukraine,Extended,1,1,2,3
+Mexico,Extended,1,1,1,3
+Argentina,Extended,2,3,3,3
+Republic of Korea,Core,2,3,3,1
+Taiwan,Extended,1,3,1,1
+Netherlands,Extended,2,1,1,2
+Belgium,Extended,1,2,1,2
+South Africa,Extended,3,1,2,3
+Switzerland,Extended,1,1,1,1
+Denmark,Extended,1,3,2,3
